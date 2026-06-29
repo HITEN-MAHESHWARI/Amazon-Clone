@@ -7,7 +7,10 @@ A pixel-perfect front-end clone of the Amazon website built with pure **HTML5** 
 ## 📸 Screenshots
 
 ### 🔝 Homepage — Navbar & Hero Section
-![Homepage](screenshot-navbar.png)
+![Homepage](screenshot-homepage.png)
+
+### 🛍️ Product Card Section
+![Product Card](screenshot-products.png)
 
 ### 🛍️ Sign In Section
 ![Sign In](screenshot-signin.png)
